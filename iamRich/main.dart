@@ -13,12 +13,12 @@ void main(){
               children: <Widget>[
                 Image.asset("img/blackhole.jpg"),
                 Text('Thank you for downloading .'),
-                Text('Developed by: Ashish')
+                Text('Developed by: Ashish'),
               ],
             ),
-          )
+          ),
         ),
 
-      )
+      ),
   );
 }
